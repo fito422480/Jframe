@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sys_william">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/sys_william.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

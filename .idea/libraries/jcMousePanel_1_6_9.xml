@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcMousePanel-1.6.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/librerias/jcMousePanel-1.6.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
